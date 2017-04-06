@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+    <item id="1" sort="1" version="V3.50"/>
+    <item id="2" sort="2" version="V3.50SP1"/>
+    <item id="3" sort="3" version="V3.50SP2"/>
+    <item id="4" sort="4" version="V5.0"/>
+    <item id="5" sort="5" version="V5.0SP1"/>
+    <item id="6" sort="6" version="V5.0SP2"/>
+    <item id="7" sort="7" version="V5.1"/>
+    <item id="8" sort="8" version="V5.1SP1"/>
+    <item id="9" sort="9" version="V5.6"/>
+    <item id="10" sort="10" version="V5.6SP1"/>
+    <item id="11" sort="11" version="V6.0"/>
+	<item id="12" sort="12" version="V6.0SP1"/>
+</root>
